@@ -1,2 +1,2 @@
 # MySql-Quries
-This page contains some SQL questions and answers
+This page contains some SQL quries questions and answers screenshots...
